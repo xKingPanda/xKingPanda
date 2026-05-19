@@ -3,7 +3,7 @@
 🏫 Studied Applied Computing and Informatics at University of Nebraska at Omaha<br>
 🛠️ Building projects that solve real problems and improve everyday workflows<br>
 🔍 Exploring software QA, Python automation, web development, and cybersecurity<br>
-🌱 Currently learning secure coding and full-stack web development
+🌱 Currently learning secure operations and full-stack web development
 
 
 # 💻 Tech Stack:
