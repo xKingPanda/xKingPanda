@@ -1,14 +1,22 @@
-## Hi there, I'm xKingPanda 👋
+# 👋 Hi, I'm Michael
+💻 Aspiring software developer sharing about my journey and learnings in tech<br>
+🏫 Studied Applied Computing and Informatics at University of Nebraska at Omaha<br>
+🛠️ Building projects that solve real problems and improve everyday workflows<br>
+🔍 Exploring software QA, Python automation, web development, and cybersecurity<br>
+🌱 Currently learning secure coding and full-stack web development
 
-<!--
-**xKingPanda/xKingPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on a video game & an electronic device
-- 🌱 I’m currently learning game design and studying a language
-- 👯 I’m looking to collaborate on a video games & electronics
-- 🤔 I’m looking for help with code & designing
-- 💬 Ask me about anything 
-- ⚡ Interesting fact: Studied abroad in Japan for 2 years & I'm top 1% in the World of Warcraft
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=xKingPanda&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=xKingPanda&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=xKingPanda&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=xKingPanda&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
